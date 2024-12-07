@@ -58,7 +58,7 @@ OrderRec
     "appId": "0d82923a349d4adfb9a5fb14ad6fc0b9",
     "sign": "57e65570c62ebf256632d8663cdc5485",
     "t": "112223333333",
-    "service": "OrderSend",
+    "service": "OrderRec",
     "reqBody": {
         "amount":"1110",
         "support": "2"
